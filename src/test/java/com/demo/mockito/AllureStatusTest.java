@@ -11,10 +11,10 @@ import static org.hamcrest.Matchers.equalTo;
 @SpringBootTest
 public class AllureStatusTest {
 
-//    @Test
-//    void caseBrokenTest(){
-//       int i = 1 / 0;
-//    }
+    @Test
+    void caseBrokenTest(){
+       int i = 1 / 0;
+    }
 
 
     @Disabled
@@ -23,10 +23,10 @@ public class AllureStatusTest {
 
     }
 
-//    @Test
-//    void caseFailedTest() {
-//        assertThat(2,equalTo(3));
-//    }
+    @Test
+    void caseFailedTest() {
+        assertThat(2,equalTo(3));
+    }
 
     @Test
     void casePassedTest() {
