@@ -64,5 +64,9 @@ public class AllureAnnotationTest {
 
 
 
+    @Test
+    void caseAdditionUserTest() {
+
+    }
 
 }
