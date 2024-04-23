@@ -74,27 +74,11 @@ public class AllureAnnotationTest {
 
     }
 
-
-
-
-
-
-
-
     @Test
     void test2() {
 
     }
 
 
-
-
-
-
-
-    @Test
-    void test2() {
-
-    }
 
 }
