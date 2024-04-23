@@ -55,6 +55,12 @@ public class AllureAnnotationTest {
     }
 
 
+    @Test
+    void caseAddition(){
+        System.out.println("addition");
+    }
+
+
 
 
 
