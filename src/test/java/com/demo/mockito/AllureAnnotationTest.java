@@ -86,4 +86,15 @@ public class AllureAnnotationTest {
 
     }
 
+
+
+
+
+
+
+    @Test
+    void test2() {
+
+    }
+
 }
