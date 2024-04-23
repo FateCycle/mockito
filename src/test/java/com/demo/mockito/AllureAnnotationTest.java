@@ -69,4 +69,10 @@ public class AllureAnnotationTest {
 
     }
 
+    @Test
+    void caseTest1() {
+
+    }
+
+
 }
